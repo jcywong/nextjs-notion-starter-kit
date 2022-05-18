@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
-  github: 'jcywong',
+  //github: 'jcywong',
   //linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
